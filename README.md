@@ -25,8 +25,6 @@ Optimization Pipeline
 
 
 
-
-
 Folder Structure  
 d-----venv
 -a----benchmark.py
