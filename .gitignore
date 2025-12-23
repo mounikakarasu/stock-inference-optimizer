@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+
+*.pth
+*.onnx
+*.csv
+
+.DS_Store
