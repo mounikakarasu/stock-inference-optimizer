@@ -13,7 +13,8 @@ NumPy
 Scikit-Learn
 yfinance
 
-to see it working
+to see it working:
+
 -Install dependencies: 
 pip install -r requirements.txt
 -Train the baseline model: 
